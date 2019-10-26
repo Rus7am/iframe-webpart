@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "IFRAME WebPart",
+    "id": "032314a9-02d3-498c-b1c2-1f2cbd5b0aef",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/iframe-webpart.sppkg"
+  }
+}
